@@ -9,3 +9,14 @@ C:\Users\CompLab504\source\repos\StudentInfoApplication\StudentInfoApplication\o
 C:\Users\CompLab504\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
 C:\Users\CompLab504\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
 C:\Users\CompLab504\source\repos\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\MOISES\Source\Repos\StudentInfoApp\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb

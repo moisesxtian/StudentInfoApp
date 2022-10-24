@@ -32,21 +32,28 @@ namespace StudentInfoApplication
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string input1, input2, input3;
-            input1 = id.Text;
-            input2 = ln.Text;
-            input3 = fn.Text;
-        
-            student myclass = new student(input1,input2,input3);
-            string set1, set2, set3;
-            set1 = myclass.getID();
-            set2 = myclass.getfn();
-            set3 = myclass.getln();
-            lb1.Items.Add(set1);
-            lb3.Items.Add(set2);
-            lb2.Items.Add(set3);
+            //This Stores the Value in the TextBox
+            string idinp, lninp, fninp;
+            idinp = id.Text;
+            lninp = ln.Text;
+            fninp = fn.Text;
+
+            /* This transfers the Value of the TextBox to the 'Students' Class inside a constructor
+            Constructor Overloading is implemented with 3 paramerters*/
+            Students students = new Students(idinp,lninp,fninp);
+
+            /*Getting the value of Students ID, Last name and First Name from the 'Students Class
+              and adding it into the listboxes */
+            lb1.Items.Add(students.getID());
+            lb3.Items.Add(students.getfn());
+            lb2.Items.Add(students.getln());
 
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
